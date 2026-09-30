@@ -1,0 +1,5 @@
+.build/
+.swiftpm/
+URL Router.app/
+*.xcodeproj
+.DS_Store
